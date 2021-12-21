@@ -1,0 +1,27 @@
+#flex {
+	display: flex;
+	flex-direction: row;
+}
+
+ul {
+	width: 100px;
+}
+
+li a {
+	color: blue;
+	padding: 8px;
+	
+}
+
+p {
+	text-align: justify
+}
+
+h1  {
+	text-align: center;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
